@@ -18,9 +18,10 @@
 ---
 
 ## :pencil2: language | ภาษาที่ใช้ :pencil2:
+
 | Arduino IDE |
 | :--------: |
-|![Arduino IDE](pic/ArI.jpg) |
+|![Arduino IDE](pic/alogo.jpg) |
 
 ---
 
