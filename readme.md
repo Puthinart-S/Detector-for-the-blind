@@ -22,7 +22,7 @@
 
 | Arduino IDE |
 | :--------: |
-|![Arduino IDE](pic/alogo.jpg) |
+|![Arduino IDE](pic/alogo.png) |
 
 ---
 
