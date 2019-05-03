@@ -18,7 +18,7 @@
 
 ---
 
-## :pencil2: language | ภาษาที่ใช้ :pencil2:
+## :pencil2: Language | ภาษาที่ใช้ :pencil2:
 
 | Arduino IDE |
 | :--------: |
