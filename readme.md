@@ -1,4 +1,4 @@
-#  Detector-for-the-blind
+#  Detector-For-The-Blind
 # จุดเริ่มต้นของการพัฒนาเทคโนโลยีเพื่อผู้พิการทางสายตา
 
 ## :speaker: Introduction | บทนำ :speaker:
